@@ -1,5 +1,5 @@
 # Meus arquivos em C 
 
 <div align = "center">
-## Gabrielly Souza
+<font size = 20> Gabrielly Souza </font>
 </div>
